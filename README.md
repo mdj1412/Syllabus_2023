@@ -13,7 +13,7 @@ August 25 | Do a paper critic session (3/3)
 September 1 | Wrapping up
 
 # Summary
-* [Notion]()
+* [Notion](https://bottlenose-bracket-787.notion.site/Paper-Review-fb9a4822a7c84fc690c4e6513887ff0d?pvs=4)
 
 # Reference
 * [NLP: Self-supervised Models](https://self-supervised.cs.jhu.edu/sp2023/)
